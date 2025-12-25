@@ -1,0 +1,9 @@
+GNU Compiler for MSP430 Link: https://www.ti.com/tool/MSP430-GCC-OPENSOURCE#downloads
+
+MSP430 Flasker link: https://www.ti.com/tool/MSP430-FLASHER#downloads
+
+Naken utility download Link: https://www.mikekohn.net/micro/naken_asm.php (downloaded the Windows Binary one)
+
+Note: After downloading these files I kept them in " C:\ti " because I have to add all these path into the "System Path". To do this-
+
+Search "Edit the System Environment Variables > Environment Variables > Clck on "path" > Edit > New > then paste the path. Hit Ok 3 times.
